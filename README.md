@@ -6,3 +6,7 @@ This application requires the x86 version of mir_sdr_api.dll and mir_sdr_api.lib
 http://www.sdrplay.com/windl.php
 
 You will need to copy the mir_sdr_api.dll and mir_sdr_api.lib from the SDRplay/API/x86 directory into the same directory as the rspstreamer.exe.
+
+<p align="Center">
+<img src=https://cloud.githubusercontent.com/assets/9042043/26014889/6b2130d8-3713-11e7-98fe-8cff52d2b94b.PNG>
+</p>
