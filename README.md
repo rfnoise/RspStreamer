@@ -8,5 +8,5 @@ http://www.sdrplay.com/windl.php
 You will need to copy the mir_sdr_api.dll and mir_sdr_api.lib from the SDRplay/API/x86 directory into the same directory as the rspstreamer.exe.
 
 <p align="Center">
-<img src=https://cloud.githubusercontent.com/assets/9042043/26014889/6b2130d8-3713-11e7-98fe-8cff52d2b94b.PNG>
+<img src=  https://user-images.githubusercontent.com/9042043/34458426-1f3de884-ed87-11e7-8fa3-46b09722f94f.PNG>
 </p>
